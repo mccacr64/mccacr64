@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences [resume coming soon](resume coming soon)
 
-- ⚡ Fun fact about me **I am an audio engineer, enjoy playing video games, and love One Piece!**
+- ⚡ Fun fact about me **I have experience as an Audio Engineer, enjoy playing video games, and watch One Piece in my spare time.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
