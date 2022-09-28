@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://twitter.com/crispy_64" target="blank"><img src="https://img.shields.io/twitter/follow/crispy_64?logo=twitter&style=for-the-badge" alt="crispy_64" /></a> </p>
 
-- 🔭 I’m currently working on **a Pokedex API App and a Guess the Country Game**
+- 🔭 I’m currently working on **a Pokedex API App and Guess the Country Game**
 
-- 🌱 I’m currently learning **Web APIs, Promises, Async/Await, and Node**
+- 🌱 I’m currently learning **NodeJS and Backend!**
 
-- 👨‍💻 You can find some of my projects are available at [comingsoon](comingsoon)
+- 👨‍💻 You can find some of my projects are available at [[comingsoon]](https://mccarthytictactoe.netlify.app/)(comingsoon)
 
 - 📫 How to reach me **mccacr64@gmail.com**
 
