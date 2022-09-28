@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **NodeJS and Backend!**
 
-- 👨‍💻 You can find some of my projects are available at [[comingsoon]](https://mccarthytictactoe.netlify.app/)(comingsoon)
+- 👨‍💻 You can find some of my projects are available at [[My Portfolio]](https://chris-mccarthy.netlify.app/)
 
 - 📫 How to reach me **mccacr64@gmail.com**
 
