@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **mccacr64@gmail.com**
 
-- 📄 Wish to know more? Checkout my [Resume](https://docs.google.com/document/d/1TKSLY6DryWGOiZ9ugOX3Dgdc2ooSCJiA/edit?usp=sharing&ouid=116575972578046638144&rtpof=true&sd=true))
+- 📄 Wish to know more? Checkout my [Resume](https://docs.google.com/document/d/1TKSLY6DryWGOiZ9ugOX3Dgdc2ooSCJiA/edit?usp=sharing&ouid=116575972578046638144&rtpof=true&sd=true)
 
 - ⚡ Fun fact about me **I have experience as an Audio Engineer, enjoy playing video games, and watch One Piece in my spare time.**
 
