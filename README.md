@@ -7,15 +7,15 @@
 
 - 🔭 I’m currently working on **Pokedex App and my 100Hr project Guess the Country Game (Name and Work in progress...)**
 
-- 🌱 I’m currently learning **Backend: Nodejs, Expressjs, and MongoDB!**
+- 🌱 I’m currently learning about **Backend, Authentication, and MVC**
 
-- 👨‍💻 You can find some of my projects are available at [My Portfolio](https://chris-mccarthy.netlify.app/)
+- 👨‍💻 You can find some of my projects on [My Portfolio](https://chris-mccarthy.netlify.app/)
 
-- 📫 How to reach me **mccacr64@gmail.com**
+- 📫 Email me @ **mccacr64@gmail.com**
 
 - 📄 Wish to know more? Checkout my [Resume](https://docs.google.com/document/d/1TKSLY6DryWGOiZ9ugOX3Dgdc2ooSCJiA/edit?usp=sharing&ouid=116575972578046638144&rtpof=true&sd=true)
 
-- ⚡ Fun fact about me **I have experience as an Audio Engineer, enjoy playing video games, and watch One Piece in my spare time.**
+- ⚡ **I work in live sound industry as an Audio Engineer, enjoy playing video games, and watch One Piece**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
