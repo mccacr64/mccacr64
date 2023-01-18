@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/crispy_64" target="blank"><img src="https://img.shields.io/twitter/follow/crispy_64?logo=twitter&style=for-the-badge" alt="crispy_64" /></a> </p>
 
-- 🔭 I’m currently working on **Pokedex App and my "100 hours project" Guess the Country Game (Name and Work in progress...)**
+- 🔭 I’m currently working on **Pokedex App and Guess the Country Game (Name and Work in progress...)**
 
 - 🌱 I’m currently learning about **Backend, Authentication, and MVC**
 
