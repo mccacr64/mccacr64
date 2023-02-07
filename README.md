@@ -5,9 +5,9 @@
 
 <!-- <p align="left"> <a href="https://twitter.com/crispy_64" target="blank"><img src="https://img.shields.io/twitter/follow/crispy_64?logo=twitter&style=for-the-badge" alt="crispy_64" /></a> </p> -->
 
-- 🔭 I’m currently working on **Pokedex App and Guess the Country Game (Name and Work in progress...)**
+- 🔭 I’m currently working on **Pokedex and Battle Calculator App and Guess the Country Game (Name and Work in progress...)**
 
-- 🌱 I’m currently learning about **Backend, Authentication, and MVC**
+- 🌱 I’m currently learning about **Fullstack Softare Development**
 
 - 👨‍💻 You can find some of my projects on [My Portfolio](https://chris-mccarthy.netlify.app/)
 
@@ -15,7 +15,7 @@
 
 - 📄 Wish to know more? Checkout my [Resume](https://docs.google.com/document/d/1TKSLY6DryWGOiZ9ugOX3Dgdc2ooSCJiA/edit?usp=sharing&ouid=116575972578046638144&rtpof=true&sd=true)
 
-- ⚡ **I work in live sound industry as an Audio Engineer, enjoy playing video games, and watch One Piece**
+- ⚡ **I work in live sound industry as an Audio Engineer, enjoy playing video games, and watching One Piece**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
