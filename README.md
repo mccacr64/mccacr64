@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Pokedex and Battle Calculator App and Guess the Country Game (Name and Work in progress...)**
 
-- 🌱 I’m currently learning about **Fullstack Softare Development**
+- 🌱 I’m currently learning about **Fullstack Software Development**
 
 - 👨‍💻 You can find some of my projects on [My Portfolio](https://chris-mccarthy.netlify.app/)
 
