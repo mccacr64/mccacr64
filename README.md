@@ -15,7 +15,7 @@
 
 - 📄 Wish to know more? Checkout my [Resume](https://docs.google.com/document/d/1TKSLY6DryWGOiZ9ugOX3Dgdc2ooSCJiA/edit?usp=sharing&ouid=116575972578046638144&rtpof=true&sd=true)
 
-- ⚡ **I work in live sound industry as an Audio Engineer, enjoy playing video games, and watching One Piece**
+- ⚡ **I am an Audio Engineer in the live sound industry , enjoy playing video games, and watching One Piece**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
