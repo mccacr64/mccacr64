@@ -5,9 +5,9 @@
 
 <!-- <p align="left"> <a href="https://twitter.com/crispy_64" target="blank"><img src="https://img.shields.io/twitter/follow/crispy_64?logo=twitter&style=for-the-badge" alt="crispy_64" /></a> </p> -->
 
-- 🔭 I’m currently working on **Pokedex and Battle Calculator App and Guess the Country Game (Name and Work in progress...)**
+- 🔭 I’m currently working on **Fullstack Guess the Country Game**
 
-- 🌱 I’m currently learning about **Fullstack Software Development**
+- 🌱 I’m currently learning about **React**
 
 - 👨‍💻 You can find some of my projects on [My Portfolio](https://chris-mccarthy.netlify.app/)
 
