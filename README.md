@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Fullstack Guess the Country Game**
 
-- 🌱 I’m currently learning about **React**
+- 🌱 I’m currently learning **React and Firebase**
 
 - 👨‍💻 You can find some of my projects on [My Portfolio](https://chris-mccarthy.netlify.app/)
 
