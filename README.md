@@ -13,7 +13,7 @@
 
 - 📫 Email me @ **mccacr64@gmail.com**
 
-- 📄 Wish to know more? Checkout my [Resume](https://docs.google.com/document/d/1Ru-c05EzzzF0EzWAhBKjsj6f7OAoieXm/edit?usp=sharing&ouid=110743196687574436841&rtpof=true&sd=true)
+- 📄 Wish to know more? Checkout my [Resume](https://docs.google.com/document/d/13xGMmhyKvjDtM0bLhRefLWtgyYSeYitu/edit?usp=sharing&ouid=110743196687574436841&rtpof=true&sd=true)
 
 - ⚡ **I am an Audio Engineer in the live sound industry, enjoy playing video games, and watching One Piece**
 
