@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **"Who's That Pokemon?" (A game built with HTML, CSS, and React)**
 
-- 🌱 I’m currently learning **SQL jQuery and Sass**
+- 🌱 I’m currently learning **Python**
 
 - 👨‍💻 You can find some of my projects on [My Portfolio](https://chris-mccarthy.netlify.app/)
 
